@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe -NoProfile -ExecutionPolicy Bypass -Command \"irm https://ghproxy.com/https://raw.githubusercontent.com/astral-sh/uv/main/install.ps1 | iex\")"
+    ]
+  }
+}
